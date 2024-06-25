@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zerlesper.github.io/sitemap
+Sitemap: https://zerlesper.github.io/app/sitemap
+Sitemap: https://zerlesper.github.io/assets/sitemap
+Sitemap: https://zerlesper.github.io/css/sitemap
+Sitemap: https://zerlesper.github.io/includes/sitemap
+Sitemap: https://zerlesper.github.io/item/sitemap
+Sitemap: https://zerlesper.github.io/src/sitemap
